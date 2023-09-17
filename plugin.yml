@@ -1,0 +1,9 @@
+name: WorldReset
+version: 1.0.0
+author: RyTheFirst
+website: rythefirst.uk
+main: uk.rythefirst.wreset.Main
+api-version: 1.16
+commands:
+ idied:
+  description: I died
